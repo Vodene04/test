@@ -14,4 +14,4 @@ __жирный__
 
 ~~зачеркнули~~
 
-![Kartinka](https://github.com/[Vodene04]/[test]/blob/[fix/README]/6526637122.jpg?raw=true)
+![6526637122](https://github.com/user-attachments/assets/89ee633d-f842-428c-b770-23c0857bc9b1)
