@@ -18,4 +18,3 @@ __жирный__
 
 ~~зачеркнули~~
 
-![6526637122](https://github.com/user-attachments/assets/89ee633d-f842-428c-b770-23c0857bc9b1)
